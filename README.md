@@ -6,7 +6,7 @@
 ➡Persnality Lover 👔
 ➡🎧Music Addicted🎶
 ➡Photography♥️
-➡Wish Me On 16 August🎂
+➡Wish Me On 28 march🎂
 
 Skills: PYTHON/HTML
 
