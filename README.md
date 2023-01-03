@@ -28,7 +28,7 @@ Skills: PYTHON & HTML
 ![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4RVEJ&show_icons=true&theme=chartreuse-dark)  
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=P4RVEJ&layout=compact&theme=chartreuse-dark" />
 
 ![Profile views](https://gpvc.arturio.dev/P4RVEJ )  
 
